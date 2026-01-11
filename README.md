@@ -1,3 +1,20 @@
-# python-task-manager
-Python Task Manager (Python) • Developed a command-line task management application using Python and OOP principles • Implemented CRUD operations with persistent storage using JSON • Added input validation and error handling for reliability • Designed clean, readable, and maintainable backend logic
- 
+# Python Task Manager
+
+A simple command-line Task Manager application built using Python.
+
+## Features
+- Add tasks
+- View tasks
+- Update tasks
+- Delete tasks
+- Persistent storage using JSON
+
+## Concepts Used
+- Python OOP
+- File handling
+- CRUD operations
+- Error handling
+
+## How to Run
+```bash
+python task_manager.py
