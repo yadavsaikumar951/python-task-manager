@@ -18,3 +18,9 @@ A simple command-line Task Manager application built using Python.
 ## How to Run
 ```bash
 python task_manager.py
+## Project Purpose
+
+This project was built to strengthen Python backend fundamentals such as
+object-oriented programming, file handling, validation, and CRUD operations.
+It reflects real-world backend logic commonly used in frameworks like Frappe
+and Django.
