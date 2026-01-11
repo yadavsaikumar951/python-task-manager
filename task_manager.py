@@ -83,6 +83,7 @@ def main():
         print("3. Update Task")
         print("4. Delete Task")
         print("5. Exit")
+        print("6. Complete Task")
 
         choice = input("Choose an option: ")
 
@@ -113,6 +114,8 @@ def main():
 
             elif choice == "5":
                 print("Exiting Task Manager.")
+            elif choice=="6":
+                print("Add feature to mark tasks as completed")
                 break
 
             else:
